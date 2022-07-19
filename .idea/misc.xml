@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/sandeep/AndroidStudioProjects/cartor1/app/src/main/res/drawable/circle_shape.xml" value="0.1245" />
         <entry key="..\:/Users/sandeep/AndroidStudioProjects/cartor1/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1245" />
+        <entry key="..\:/Users/sandeep/AndroidStudioProjects/cartor1/app/src/main/res/layout/activity_login_screen.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/sandeep/AndroidStudioProjects/cartor1/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/sandeep/AndroidStudioProjects/cartor1/app/src/main/res/layout/toast_layout.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>
